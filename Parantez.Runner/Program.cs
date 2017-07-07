@@ -41,7 +41,6 @@ namespace Parantez.Runner
                 x.RunAsNetworkService();
                 x.SetDisplayName("Parantez");
                 x.SetServiceName("Parantez");
-                x.SetDescription("An extensible Slackbot built in C#");
             });
         }
     }
