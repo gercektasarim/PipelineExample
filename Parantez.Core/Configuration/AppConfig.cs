@@ -25,7 +25,7 @@ namespace Parantez.Core.Configuration
 
         private void CommonInitialize(string[] args = null)
         {
-            ElasticSearchServer = ConfigurationManager.AppSettings.Get("ElasticSearchServer");
+           // ElasticSearchServer = ConfigurationManager.AppSettings.Get("ElasticSearchServer");
            
         }
 
